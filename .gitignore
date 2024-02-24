@@ -2,6 +2,5 @@
 !.gitignore
 
 # IGNORE THIS STUFF
-*.exe
 .git/
 
