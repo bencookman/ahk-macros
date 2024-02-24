@@ -1,0 +1,7 @@
+# DO NOT IGNORE THIS .gitignore
+!.gitignore
+
+# IGNORE THIS STUFF
+*.exe
+.git/
+
