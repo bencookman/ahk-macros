@@ -1,4 +1,17 @@
-﻿firefox := "C:\Program Files\Mozilla Firefox\firefox.exe"
+﻿; Macros are on the alt purpose for these numpad keys
+; 0 - Firefox
+; . - Obsidian
+; 1 - GitHub Desktop
+; 2 - Windows Explorer
+; 3 - Terminal
+; 4 - VS Code
+; 5 - Everything
+; 6 - Zotero
+; 7 - Evince
+; 8 - 
+; 9 - 
+
+firefox := "C:\Program Files\Mozilla Firefox\firefox.exe"
 obsidian := "C:\Users\t00573bc\AppData\Local\Programs\obsidian\Obsidian.exe"
 github := "C:\Users\t00573bc\AppData\Local\GitHubDesktop\GitHubDesktop.exe"
 explorer_location := "C:\Users\t00573bc\Links\"
